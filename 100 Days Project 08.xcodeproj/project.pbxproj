@@ -12,6 +12,8 @@
 		156DDAF02658FFDE006847FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 156DDAEE2658FFDE006847FE /* Main.storyboard */; };
 		156DDAF22658FFDE006847FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 156DDAF12658FFDE006847FE /* Assets.xcassets */; };
 		156DDAF52658FFDE006847FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 156DDAF32658FFDE006847FE /* LaunchScreen.storyboard */; };
+		156DDAFD265957C6006847FE /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 156DDAFC265957C6006847FE /* level1.txt */; };
+		156DDAFF26595814006847FE /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 156DDAFE26595814006847FE /* level2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		156DDAF12658FFDE006847FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		156DDAF42658FFDE006847FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		156DDAF62658FFDE006847FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		156DDAFC265957C6006847FE /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = level1.txt; path = "../../../HackingWithSwift-main/Classic/project8-files/level1.txt"; sourceTree = "<group>"; };
+		156DDAFE26595814006847FE /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = level2.txt; path = "../../../HackingWithSwift-main/Classic/project8-files/level2.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				156DDAF12658FFDE006847FE /* Assets.xcassets */,
 				156DDAF32658FFDE006847FE /* LaunchScreen.storyboard */,
 				156DDAF62658FFDE006847FE /* Info.plist */,
+				156DDAFC265957C6006847FE /* level1.txt */,
+				156DDAFE26595814006847FE /* level2.txt */,
 			);
 			path = "100 Days Project 08";
 			sourceTree = "<group>";
@@ -124,7 +130,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				156DDAFF26595814006847FE /* level2.txt in Resources */,
 				156DDAF52658FFDE006847FE /* LaunchScreen.storyboard in Resources */,
+				156DDAFD265957C6006847FE /* level1.txt in Resources */,
 				156DDAF22658FFDE006847FE /* Assets.xcassets in Resources */,
 				156DDAF02658FFDE006847FE /* Main.storyboard in Resources */,
 			);
